@@ -1,0 +1,33 @@
+# Byte-code files
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+tmp/
+
+# Data files (if not meant to be tracked)
+*.sqlite3
+*.db
+*.csv
+*.json
+
+# Environment variables
+.env
